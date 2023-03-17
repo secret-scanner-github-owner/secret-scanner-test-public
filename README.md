@@ -1,1 +1,0 @@
-# secret-scanner-test-public
